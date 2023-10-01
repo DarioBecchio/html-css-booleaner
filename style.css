@@ -15,3 +15,11 @@ main{
     width: 80%;
     margin: auto;
 }
+.table_head{
+    background-color: rgb(0, 183, 255);
+    align-items: left;
+}
+.table_body{
+    background-color: aqua;
+    align-items: left;
+}
