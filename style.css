@@ -7,3 +7,11 @@
     width: 140px;
     padding: 1rem 0.5rem
 }
+.paragraph{
+    padding-top: 1rem;
+    padding-bottom: 1 rem;
+}
+main{
+    width: 80%;
+    margin: auto;
+}
