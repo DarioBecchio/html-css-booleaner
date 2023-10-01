@@ -1,0 +1,9 @@
+#site_header{
+    background-color: aqua;
+    background-image: url(../pattern.png);
+    background-size: 280px;
+}
+.logo_img{
+    width: 140px;
+    padding: 1rem 0.5rem
+}
