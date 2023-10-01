@@ -2,6 +2,8 @@
     background-color: aqua;
     background-image: url(../pattern.png);
     background-size: 280px;
+    width: 80%;
+    margin:auto
 }
 .logo_img{
     width: 140px;
@@ -22,4 +24,13 @@ main{
 .table_body{
     background-color: aqua;
     align-items: left;
+}
+.last_images{
+    text-decoration: beige;
+}
+.lorem_1{
+    background-image:url(../html-css-booleaner/graph.jpg);
+}
+.lorem_2{
+    background-image: url(../html-css-booleaner/monitor.jpg);
 }
